@@ -83,6 +83,9 @@
   form .main-btn{
     width: 80%;
   }
+}
+
+@media(max-width: 760px){
   .policy{
     padding: 0 60px;
   }
